@@ -1,0 +1,18 @@
+﻿  OOP_HW2.cpp
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(40,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(79,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(145,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(162,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(183,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(211,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\STEP\cpp\OOP_HW2\OOP_HW2.cpp(259,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OOP_HW2.vcxproj -> C:\Users\user\Desktop\STEP\cpp\OOP_HW2\x64\Debug\OOP_HW2.exe
